@@ -118,7 +118,7 @@ main {
 
    #header {
        width:95%;
-       height:20%;
+       height:25%;
        font-size:1rem;
    }
 
@@ -146,11 +146,18 @@ main {
         height:40vh;
         align-self: center;
         justify-self:center;
-        margin:3% 0;
+   }
+
+   #supervisor-sec {
+       margin-bottom:5%;
+   }
+
+   #calculator-sec {
+       margin-top:10%;
    }
 
    #karma-sec {
-       margin-top:3%;
+       margin-top:5%;
    }
 
    .info {
